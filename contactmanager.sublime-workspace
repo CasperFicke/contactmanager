@@ -4,12 +4,16 @@
 		"selected_items":
 		[
 			[
-				"n",
-				"newContacts"
+				"on",
+				"onChange"
 			],
 			[
-				"on",
-				"onShowClick"
+				"C",
+				"Consumer"
+			],
+			[
+				"n",
+				"newContacts"
 			],
 			[
 				"class",
@@ -18,10 +22,6 @@
 			[
 				"con",
 				"contact"
-			],
-			[
-				"C",
-				"Contact"
 			],
 			[
 				"cla",
@@ -459,14 +459,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/cfick/Documents/Udemy_React front to back/es6_refresher_finished/main.js",
-			"settings":
-			{
-				"buffer_size": 1861,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -530,19 +522,28 @@
 		"/C/Users/cfick/projects/contactmanager",
 		"/C/Users/cfick/projects/contactmanager/public",
 		"/C/Users/cfick/projects/contactmanager/src",
-		"/C/Users/cfick/projects/contactmanager/src/components"
+		"/C/Users/cfick/projects/contactmanager/src/components",
+		"/C/Users/cfick/projects/contactmanager/src/components/contacts",
+		"/C/Users/cfick/projects/contactmanager/src/components/layout"
 	],
 	"file_history":
 	[
-		"/C/Users/cfick/projects/contactmanager/src/components/Contacts.js",
-		"/C/Users/cfick/projects/contactmanager/src/App.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/contacts/AddContact.js",
+		"/C/Users/cfick/projects/contactmanager/src/index.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/layout/TextInputGroup.js",
 		"/C/Users/cfick/projects/contactmanager/src/context.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/contacts/Contacts.js",
+		"/C/Users/cfick/projects/contactmanager/src/App.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/contacts/Contact.js",
 		"/C/Users/cfick/projects/contactmanager/src/components/Contact.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/Contacts.js",
+		"/C/Users/cfick/projects/contactmanager/node_modules/jest-environment-jsdom/node_modules/jsdom/lib/jsdom/living/window/History-impl.js",
+		"/C/Users/cfick/projects/contactmanager/.gitignore",
+		"/C/Users/cfick/Documents/Udemy_React front to back/es6_refresher_finished/main.js",
 		"/C/Users/cfick/projects/contactmanager/public/index.html",
 		"/C/Users/cfick/projects/contactmanager/src/components/Header.js",
 		"/C/Users/cfick/Documents/Udemy_React front to back/final_course_projects/contactmanager/src/components/layout/Header.js",
 		"/C/Users/cfick/projects/contactmanager/src/App.css",
-		"/C/Users/cfick/projects/contactmanager/src/index.js",
 		"/C/Users/cfick/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 		"/C/Users/cfick/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 		"/C/Users/cfick/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
@@ -654,14 +655,7 @@
 		"/C/Users/cfick/projects/surf-shop/controllers/user.js",
 		"/C/Users/cfick/projects/surf-shop/node_modules/express/lib/router/index.js",
 		"/C/Users/cfick/projects/surf-shop/routes/post.js",
-		"/C/Users/cfick/projects/surf-shop/.gitignore",
-		"/C/Users/cfick/Downloads/zoekopadres/zoekopadres.js",
-		"/C/Users/cfick/.babel.json",
-		"/C/Users/cfick/AppData/Local/Temp/Temp1_zoekopadres.zip/zoekopadres.js",
-		"/C/Users/cfick/AppData/Local/Temp/Temp1_Afval.zip/Afval/models/comment.js",
-		"/C/Users/cfick/AppData/Local/Temp/Temp2_Afval.zip/Afval/routes/aanbiedplaatsen.js",
-		"/C/Users/cfick/AppData/Local/Temp/Temp2_Afval.zip/Afval/routes/adressen.js",
-		"/C/Users/cfick/projects/compliancytest/routes/indexRoute.js"
+		"/C/Users/cfick/projects/surf-shop/.gitignore"
 	],
 	"find":
 	{
@@ -698,37 +692,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/cfick/Documents/Udemy_React front to back/es6_refresher_finished/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1861,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								820,
-								820
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1549.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -809,7 +774,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 258.0,
+	"side_bar_width": 173.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
