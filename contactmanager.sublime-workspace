@@ -524,17 +524,21 @@
 		"/C/Users/cfick/projects/contactmanager/src",
 		"/C/Users/cfick/projects/contactmanager/src/components",
 		"/C/Users/cfick/projects/contactmanager/src/components/contacts",
-		"/C/Users/cfick/projects/contactmanager/src/components/layout"
+		"/C/Users/cfick/projects/contactmanager/src/components/layout",
+		"/C/Users/cfick/projects/contactmanager/src/components/pages"
 	],
 	"file_history":
 	[
 		"/C/Users/cfick/projects/contactmanager/src/components/contacts/AddContact.js",
-		"/C/Users/cfick/projects/contactmanager/src/index.js",
-		"/C/Users/cfick/projects/contactmanager/src/components/layout/TextInputGroup.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/contacts/Contact.js",
 		"/C/Users/cfick/projects/contactmanager/src/context.js",
 		"/C/Users/cfick/projects/contactmanager/src/components/contacts/Contacts.js",
 		"/C/Users/cfick/projects/contactmanager/src/App.js",
-		"/C/Users/cfick/projects/contactmanager/src/components/contacts/Contact.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/pages/NotFound.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/layout/Header.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/pages/About.js",
+		"/C/Users/cfick/projects/contactmanager/src/index.js",
+		"/C/Users/cfick/projects/contactmanager/src/components/layout/TextInputGroup.js",
 		"/C/Users/cfick/projects/contactmanager/src/components/Contact.js",
 		"/C/Users/cfick/projects/contactmanager/src/components/Contacts.js",
 		"/C/Users/cfick/projects/contactmanager/node_modules/jest-environment-jsdom/node_modules/jsdom/lib/jsdom/living/window/History-impl.js",
@@ -652,10 +656,7 @@
 		"/C/Users/cfick/AppData/Local/Temp/Temp1_13-posts-show.zip/surf-shop/views/posts/show.ejs",
 		"/C/Users/cfick/AppData/Local/Temp/Temp1_11-posts-new.zip/surf-shop/views/posts/new.ejs",
 		"/C/Users/cfick/AppData/Local/Temp/Temp1_9-refactor-login-logout.zip/surf-shop/models/post.js",
-		"/C/Users/cfick/projects/surf-shop/controllers/user.js",
-		"/C/Users/cfick/projects/surf-shop/node_modules/express/lib/router/index.js",
-		"/C/Users/cfick/projects/surf-shop/routes/post.js",
-		"/C/Users/cfick/projects/surf-shop/.gitignore"
+		"/C/Users/cfick/projects/surf-shop/controllers/user.js"
 	],
 	"find":
 	{
@@ -673,6 +674,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">\n",
 			"ox",
 			"Error"
 		],
